@@ -2,6 +2,17 @@
 
 ### Team Members: Yunlu Hao, Lianghui Li
 
+Include:   
+  * Kmeans.ipynb:   main file  
+  * data:           include all data files   
+  * test:           intermediate code   
+  * readme.md  
+
+Package: 
+  * package_kmeans
+  
+  
+
 This is the final project for course STA663. In this project, we implement the `K-means++` and `K-means||`algorithm in Python following Bahmani's paper "Scalable k-means++" and speed up using `Cython`,`JIT` and `multi-core processing`. 
 
 We apply it to the simulated `GAUSSMIXTURE` dataset, `SPAM` and `Housing` dataset from UC Irvine Machine Learning repository. In this part, we compare clustering cost and runtime of the `k-means||` algorithm with these of random initialization and the `k-means++`. 
