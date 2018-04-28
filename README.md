@@ -11,13 +11,15 @@ From the implementation on the simulated dataset and the real-world dataset, the
 We also created an easily instable package for our functions, which can be found in https://github.com/yumegaaru/package_kmeans
 
 To install, please go to Terminal and type in:
+
 ```bash
 !pip install --upgrade pip git+git://github.com/yumegaaru/kmeans_package.git
 ```
 
 then run the following code in your python:
 
-`import kemans_package`
+```bash
+import kemans_package
+```
 
-
-Examples and test code for the package are provided. Install the package by using the command "pip install Statistical_Computation". See the "Package_Examples" notebook for examples of how to use the functions.
+Data and test code used in our analysis are provided in folders under this repository.
