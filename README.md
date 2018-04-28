@@ -3,13 +3,13 @@
 ### Team Members: Yunlu Hao, Lianghui Li
 
 Include:   
-  Kmeans.ipynb:   main file   
-  data:           include all data files   
-  test:           intermediate code   
-  readme.md  
+  * Kmeans.ipynb:   main file  
+  * data:           include all data files   
+  * test:           intermediate code   
+  * readme.md  
 
 Package: 
-  package_kmeans
+  * package_kmeans
   
   
 
